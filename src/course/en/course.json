@@ -4,9 +4,9 @@
   "_classes": "",
   "_htmlClasses": "",
   "title": "Adapt v5",
-  "displayTitle": "Adapt Version 5",
-  "description": "A sample course demonstrating the capabilities of the Adapt Framework",
-  "body": "Welcome to the demonstration build for version 5 of the Adapt framework.",
+  "displayTitle": "Demo/POC",
+  "description": "A quick project, with a new course appended on to the implementation provided by Adapt Team.",
+  "body": "Playground to the test scope of Adapt Framework.",
   "instruction": "",
   "_buttons": {
     "_submit": {
@@ -84,7 +84,7 @@
       }
     }
   },
-  "_latestTrackingId": 19,
+  "_latestTrackingId": 20,
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": false,
