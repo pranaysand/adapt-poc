@@ -81,7 +81,7 @@
     "pageBody": "<strong>This is just a text and is streched to make it look contentfull. We can add the description here.</strong>",
     "body": "Testing a new course",
     "_graphic": {
-      "src": "course/en/images/menu-item.png",
+      "src": "course/en/images/nature-thumbnail.jpg",
       "alt": "Placeholder graphic."
     },
     "linkText": "View",
