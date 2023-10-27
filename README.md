@@ -10,12 +10,12 @@ A quick project, with a new course appended on to the implementation provided by
 - adapt-cli
 
 ##### Run the following from bash terminal:
+    git clone git@github.com:pranaysand/adapt-poc.git
+    cd adapt-poc
+    npm install
+    adapt install
+    grunt build
+    grunt server
 
-- `git clone git@github.com:pranaysand/adapt-poc.git`
-- `cd adapt-poc`
-- `npm install`
-- `adapt install`
-- `grunt build`
-- `grunt server`
 
 Open http://localhost:9001/ in your browser.

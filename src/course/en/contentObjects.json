@@ -1,13 +1,13 @@
 [
   {
     "_id": "co-05",
-    "_parentId": "courses",
+    "_parentId": "course",
     "_type": "page",
     "_classes": "",
     "_htmlClasses": "",
     "title": "Presentation Components",
     "displayTitle": "Presentation Components",
-    "body": "Find out what presentation components are available within the core bundle and how you might consider using them within your courses.",
+    "body": "Find out what presentation components are available within the core bundle and how you might consider using them within your course.",
     "pageBody": "",
     "instruction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec commodo ex. Curabitur pretium lobortis dolor, tincidunt pharetra purus suscipit vel. Aenean suscipit eget velit in pretium. Suspendisse rutrum, mauris vel dapibus pretium, libero dolor vestibulum arcu, suscipit iaculis ligula tellus in dui. Maecenas eget mauris orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce nec sagittis leo. Phasellus vel pretium purus. Sed arcu tortor, lobortis nec ultrices eu, sodales eu nisl. Nunc dictum tristique metus, a fermentum ante semper non. Sed a arcu urna. Fusce cursus, urna et vestibulum dictum, orci risus faucibus lectus, ac pellentesque enim est eu ipsum. Suspendisse ultrices fermentum risus, sit amet tincidunt nisl sollicitudin nec. Vestibulum lacinia hendrerit nulla vitae gravida",
     "_graphic": {
@@ -25,7 +25,7 @@
   },
   {
     "_id": "co-10",
-    "_parentId": "courses",
+    "_parentId": "course",
     "_type": "page",
     "_classes": "",
     "_htmlClasses": "",
@@ -49,7 +49,7 @@
   },
   {
     "_id": "co-15",
-    "_parentId": "courses",
+    "_parentId": "course",
     "_type": "page",
     "_classes": "assessment",
     "_htmlClasses": "",
